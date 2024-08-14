@@ -3,4 +3,3 @@ pillow
 tensorflow
 protobuf
 reportlab
-numpy
