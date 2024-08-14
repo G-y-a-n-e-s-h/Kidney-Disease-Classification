@@ -1,4 +1,4 @@
-# 🩺 Kidney Disease Classification using Deep Learning
+# 🩺 Kidney Disease Classification using CNN (VGG16)
 
 ![Project Banner](Github_Banner.png) <!-- Replace with your banner image if available -->
 
