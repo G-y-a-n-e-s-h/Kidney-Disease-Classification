@@ -18,12 +18,4 @@ node {
         /* Running the Docker container */
         app.run("-it -p 8501:8501")
     }
-
-    stage('Push to Docker Hub') {
-        /* Logging in to Docker Hub */
-        docker.withRegistry('https://index.docker.io/v1/', 'docker-hub-credentials-id') {
-            /* Pushing the Docker image to Docker Hub */
-            app.push('latest')
-        }
-    }
 }
