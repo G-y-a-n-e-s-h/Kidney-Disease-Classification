@@ -79,7 +79,7 @@ This project aims to classify kidney CT scan images into four categories: **Cyst
 
 The app provides a simple and intuitive interface for kidney image classification. Users can upload images, get real-time predictions, and download a detailed PDF report.
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Streamlit+App+Screenshot) <!-- Replace with a screenshot of your app -->
+![App Screenshot](Streamlit_Screenshot.png) <!-- Replace with a screenshot of your app -->
 
 ## 🐳 Docker
 
