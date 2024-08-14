@@ -1,6 +1,6 @@
 # 🩺 Kidney Disease Classification using Deep Learning
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Kidney+Disease+Classification) <!-- Replace with your banner image if available -->
+![Project Banner](Github_Banner.png) <!-- Replace with your banner image if available -->
 
 ## 📚 Table of Contents
 - [Project Overview](#project-overview)
